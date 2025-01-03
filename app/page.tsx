@@ -1,8 +1,9 @@
-import { Button } from "@chakra-ui/react";
+import Nav from "@/components/shared/nav";
+
 export default function Home() {
   return (
     <main>
-      <h1>This page has not been edited yet</h1>
+      <Nav></Nav>
     </main>
   );
 }
