@@ -1,1 +1,2 @@
-export { default as Nav } from "./shared/nav";
+export { default as Layout } from "./shared/layout";
+export { default as ImageComponent } from "./shared/imageComponent";
